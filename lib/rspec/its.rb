@@ -1,3 +1,5 @@
+warn "This branch is deprecated. Please use `main`."
+
 require 'rspec/its/version'
 require 'rspec/core'
 
